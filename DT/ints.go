@@ -5,7 +5,7 @@ import (
 	"unsafe"
 )
 
-func main() {
+func main1() {
 	var num int
 	var num8 int8
 	var num16 int16
