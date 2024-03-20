@@ -9,7 +9,7 @@ func main() {
 	//var varName type = value
 	// 1
 	var number int = 12
-	var firstName string = "Ali"
+	var firstName string = "Psyon"
 
 	println("number: ", number)
 	println("firstName: ", firstName)
@@ -24,7 +24,7 @@ func main() {
 	// 3
 	var i3 = 3
 	var f1 = 3.44
-	var s3 = "Iran"
+	var s3 = "hashed"
 
 	println("i3: ", i3)
 	println("f1: ", f1)
@@ -33,15 +33,15 @@ func main() {
 	// 4
 	i4 := 44
 	f2 := 55.2
-	city := "Tehran"
+	city := "Paris"
 
 	println("i4: ", i4)
 	println("f2: ", f2)
 	println("city: ", city)
 
 	// 5
-	var i5, f3, s5 = 55, 65.2, "Mazandaran"
-	i6, f4, s6 := 55, 65.2, "Mazandaran"
+	var i5, f3, s5 = 55, 65.2, "charlotte"
+	i6, f4, s6 := 55, 65.2, "charlotte"
 
 	println("i5: ", i5)
 	println("f3: ", f3)
@@ -56,7 +56,7 @@ func main() {
 	var (
 		i7 = 12
 		f5 = 22.5
-		s7 = "Isfahan"
+		s7 = "bob"
 	)
 
 	println("i7: ", i7)
