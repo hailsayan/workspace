@@ -1,4 +1,4 @@
-module github.com/naeemaei/test
+module github.com/hailsayan/test
 
 go 1.18
 

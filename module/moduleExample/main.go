@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	jalali "github.com/jalaali/go-jalaali"
-	Math "github.com/naeemaei/TestModule"
-	"github.com/naeemaei/moduleExample/services"
+	Math "github.com/hailsayan/TestModule"
+	"github.com/hailsayan/moduleExample/services"
 )
 
 func main() {

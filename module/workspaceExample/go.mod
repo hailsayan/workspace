@@ -1,4 +1,4 @@
-module github.com/naeemaei/moduleExample
+module github.com/hailsayan/moduleExample
 
 go 1.18
 
